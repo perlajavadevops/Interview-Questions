@@ -31,4 +31,4 @@
 9. Check whether two strings are anagram or not? [Click Here for Answer](https://www.javatpoint.com/java-program-to-check-whether-two-strings-are-anagram-or-not)
 10. What is difference between StringBuffer and StringBuilder?
 11. Difference between String, StringBuffer and StringBuilder?
-12. 
+12. Count the occurence of the each character in given String in Java? [Click Here for Answer](https://www.javatpoint.com/java-program-to-count-occurrences-of-each-character)
