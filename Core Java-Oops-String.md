@@ -32,3 +32,7 @@
 10. What is difference between StringBuffer and StringBuilder?
 11. Difference between String, StringBuffer and StringBuilder?
 12. Count the occurence of the each character in given String in Java? [Click Here for Answer](https://www.javatpoint.com/java-program-to-count-occurrences-of-each-character)
+# Interview Programs on Basic and String and other challenging Questions
+1. [Java Basic Interview Questions like Fibonoccies, Prime, Amstrong, Palindrom Number](https://www.javatpoint.com/java-programs#java-basic-programs)
+2. [Java String Challenging Interview Questions](https://www.javatpoint.com/java-programs#java-string-programs)
+3. [Java Arrays Interview Questions](https://www.javatpoint.com/java-programs#java-array-programs)
