@@ -36,3 +36,16 @@
 1. [Java Basic Interview Questions like Fibonoccies, Prime, Amstrong, Palindrom Number](https://www.javatpoint.com/java-programs#java-basic-programs)
 2. [Java String Challenging Interview Questions](https://www.javatpoint.com/java-programs#java-string-programs)
 3. [Java Arrays Interview Questions](https://www.javatpoint.com/java-programs#java-array-programs)
+
+# Exceptional Handling Interview Questions
+1. What is Exception meaning?
+2. What is Exceptional Handling in Java?
+3. How many types of exceptions in Java?
+4. How to create Custom Exceptions in Java?
+5. Difference between throws and throw?
+6. Can try block without catch block?
+7. Can try without finally block?
+8. What is the uses of finally block?
+9. Explain the Exception hierarchy
+10. Difference between checked exception, unchecked exceptionand and errors [Click Herer for Answer](https://java2blog.com/java-exception-handling-interview-questions/)
+11. List out some of the Exceptions classes in Java?
