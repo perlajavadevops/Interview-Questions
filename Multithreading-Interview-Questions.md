@@ -16,6 +16,7 @@
   15. What is CyclicBarrier and CountDownLatch?
   16. What is Thread Scheduler and Time Slicing?
   17. What do you mean by inter-thread communication?
+  18. What are the different states in a thread lifecycle?
  # Executor Framework
   1. What is the ExecutorService interface?
   
