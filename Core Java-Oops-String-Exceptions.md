@@ -49,3 +49,8 @@
 9. Explain the Exception hierarchy
 10. Difference between checked exception, unchecked exceptionand and errors [Click Herer for Answer](https://java2blog.com/java-exception-handling-interview-questions/)
 11. List out some of the Exceptions classes in Java?
+12. What is error means and how to handle it?
+13. What is try-with-resource in Java?
+14. What are the differences between ClassNotFoundException and NoClassDefFoundError in Java?
+15. What is Jvm OutOfMemoryError?
+
