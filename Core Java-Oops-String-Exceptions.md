@@ -19,6 +19,14 @@
 19. What is the difference between final and finally and finalize () method in Java?
 20. What is difference between Method Overloading and Method Overriding in Java?
 21. What is method hiding in java?
+22. Why wait, notify, notifyAll is in Object class?
+23. how to create custom singleton class? and how to prevent singleton object?
+24. What is marker interface?
+25. can we create our own marker interface?
+26. What is autoweried in spring?
+27. what is Clonable Interface?
+28. what shallow and deep clonning?
+29. what is syncronization?
 # String Interview Questions
 1. Why String is immutable in java?
 2. How to create Immutable class in Java?
