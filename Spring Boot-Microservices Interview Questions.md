@@ -28,6 +28,8 @@
 26. Explaine about HTTP request methods and which is the idempotent?
 27. Why to use HTTP PATCH request?
 28. In which part u have worked for rest api (consumer or producer)?
+29. What is @Transactional annation and explain it?
+30. what is spring boot reactive programming
 
 # Micro Services Interview Questions:
 1. Explain about micro service architecutre?
@@ -45,6 +47,16 @@
 13. How will you balance the server-side load by utilizing Spring Cloud?
 14. How can you access RESTful Microservices?
 15. What are the tools that can be considered for managing a microservice architecture?
-16. How many ways to communicate microservices in java? 
+16. How many ways to communicate microservices in java?
+17. How to communicate one unastable service to stable service in microservices?
+18. What is Circuit Break in microservices?
+19. Fault Tolerence in MS?
+20. Transaction Management or Data consistency in MS?
+21. Versioning in MS?
+22. Security in MS?
+23. What is the use of Service Discovery?
+24. What are disgn patterns in Microservices?
+25. What is SAGA Pattern?
+26. 
 
 
