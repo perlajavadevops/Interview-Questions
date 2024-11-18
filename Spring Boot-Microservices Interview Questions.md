@@ -30,6 +30,11 @@
 28. In which part u have worked for rest api (consumer or producer)?
 29. What is @Transactional annation and explain it?
 30. what is spring boot reactive programming
+31. Have you used Spring Schedulers in ur project?
+32. Explain about spring boot architecture?
+33. What spring boot profiles?
+34. Expalin @Transactional?
+35. How propagation will happend between working trascation and non trasaction in spring boot?
 
 # Micro Services Interview Questions:
 1. Explain about micro service architecutre?
